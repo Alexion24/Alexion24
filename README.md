@@ -4,6 +4,8 @@
 ![DogePet](https://user-images.githubusercontent.com/92665549/175049146-cadc63b4-0f29-4a53-9088-cba9701035fd.gif)
 [![codewars](https://www.codewars.com/users/Alexion24/badges/micro)](https://www.codewars.com/users/Alexion24)
 
+![views](https://komarev.com/ghpvc/?username=Alexion24&color=brightgreen)
+
 ### My contacts:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex24bryant@mail.ru)
