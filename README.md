@@ -13,6 +13,11 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T06BMRFQB/D034KN865EK)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/alexion24)
 
+### CV:
+[Hexlet](https://cv.hexlet.io/resumes/848)
+
+[hh.ru](https://perm.hh.ru/resume/36bc3ae9ff04664a0c0039ed1f6a454b726547)
+
 ### A random programming joke:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
