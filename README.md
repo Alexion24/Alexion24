@@ -6,6 +6,8 @@
 
 ![views](https://komarev.com/ghpvc/?username=Alexion24&color=brightgreen)
 
+### Btw, I'm looking for a job. 
+
 ### My contacts:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex24bryant@mail.ru)
@@ -13,7 +15,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T06BMRFQB/D034KN865EK)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/alexion24)
 
-### CV:
+### My CV:
 [Hexlet](https://cv.hexlet.io/resumes/848)
 
 [hh.ru](https://perm.hh.ru/resume/36bc3ae9ff04664a0c0039ed1f6a454b726547)
