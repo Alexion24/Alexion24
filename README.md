@@ -7,7 +7,7 @@
 ![views](https://komarev.com/ghpvc/?username=Alexion24&color=brightgreen)
 
 ### My recent "big" projects:
-[Task manager](alexion-task-manager.herokuapp.com) - web application for managing tasks between people. Source code can be found [here](https://github.com/Alexion24/python-project-lvl4).
+[Task manager](https://alexion-task-manager.herokuapp.com) - web application for managing tasks between people. Source code can be found [here](https://github.com/Alexion24/python-project-lvl4).
 
 [ChGK backend](https://github.com/Alexion24/chgk_backend) - pet project for the game site on Django REST Framework. Currently work in progress.
 
