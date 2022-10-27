@@ -12,8 +12,6 @@
 [ChGK backend](https://github.com/Alexion24/chgk_backend) - project for the game site on Django REST Framework.
 
 
-### Btw, I'm looking for a job. 
-
 ### My contacts:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex24bryant@mail.ru)
