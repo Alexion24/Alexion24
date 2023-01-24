@@ -1,5 +1,5 @@
 ### Hello there! :wave: 
-### My name is Alexey and I'm learning Python for the future career as a developer!
+### My name is Alexey and I'm a Python developer!
 
 ![DogePet](https://user-images.githubusercontent.com/92665549/175049146-cadc63b4-0f29-4a53-9088-cba9701035fd.gif)
 [![codewars](https://www.codewars.com/users/Alexion24/badges/micro)](https://www.codewars.com/users/Alexion24)
