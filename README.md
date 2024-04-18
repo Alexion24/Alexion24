@@ -6,6 +6,8 @@
 
 ![views](https://komarev.com/ghpvc/?username=Alexion24&color=brightgreen)
 
+My GitLab (all projects are private but you can see activity) - [GitLab](https://gitlab.com/Alexion24)
+
 ### My recent "big" pet-projects:
 [Task manager](https://github.com/Alexion24/python-project-lvl4) - web application for managing tasks between people.
 
@@ -16,7 +18,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex24bryant@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alexion24)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T06BMRFQB/D034KN865EK)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/alexion24)
 
 ### My CV:
