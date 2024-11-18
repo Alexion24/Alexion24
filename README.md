@@ -8,6 +8,7 @@
 
 ## Current work:
 Development of analytical software to assist sellers in working with marketplaces (ozon, wb, etc.)
+
 [GitLab](https://gitlab.com/Alexion24) (all projects are private but you can see activity) 
 
 ### My recent "big" pet-projects:
