@@ -6,7 +6,9 @@
 
 ![views](https://komarev.com/ghpvc/?username=Alexion24&color=brightgreen)
 
-My GitLab (all projects are private but you can see activity) - [GitLab](https://gitlab.com/Alexion24)
+## Current work:
+Development of analytical software to assist sellers in working with marketplaces (ozon, wb, etc.)
+[GitLab](https://gitlab.com/Alexion24) (all projects are private but you can see activity) 
 
 ### My recent "big" pet-projects:
 [Task manager](https://github.com/Alexion24/python-project-lvl4) - web application for managing tasks between people.
