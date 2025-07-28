@@ -11,12 +11,6 @@
 
 [GitLab](https://gitlab.com/Alexion24) (all projects are private but you can see activity) 
 
-### My recent "big" pet-projects:
-[Task manager](https://github.com/Alexion24/python-project-lvl4) - web application for managing tasks between people.
-
-[ChGK backend](https://github.com/Alexion24/chgk_backend) - project for the game site on Django REST Framework.
-
-
 ### My contacts:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex24bryant@mail.ru)
