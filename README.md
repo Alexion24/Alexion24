@@ -16,9 +16,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex24bryant@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alexion24)
 
-### My CV:
-[hh.ru](https://perm.hh.ru/resume/36bc3ae9ff04664a0c0039ed1f6a454b726547)
-
 ### A random programming joke:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
