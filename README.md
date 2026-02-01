@@ -6,8 +6,11 @@
 
 ![views](https://komarev.com/ghpvc/?username=Alexion24&color=brightgreen)
 
+## Current work:
+[Phygital Plus](https://phygital.plus/ru/)
+
 ## Previous work:
-1.Development of analytical software to assist sellers in working with marketplaces (ozon, wb, etc.)
+Development of analytical software to assist sellers in working with marketplaces (ozon, wb, etc.)
 
 [GitLab](https://gitlab.com/Alexion24) (all projects are private but you can see activity) 
 
